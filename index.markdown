@@ -14,3 +14,5 @@ GRETA de Lannion (Côtes d'Armor, 22)
 En parallèle de mes études, je suis arbitre club pour la Fédération
 Française d'Echecs et essai de passer au niveau supérieur (arbitre open
 1).
+
+<img src="assets/images/clelivrechess.jpeg" />
