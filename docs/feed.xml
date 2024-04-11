@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://frederiquedagoreau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://frederiquedagoreau.github.io/" rel="alternate" type="text/html" /><updated>2024-04-10T22:02:28+02:00</updated><id>https://frederiquedagoreau.github.io/feed.xml</id><title type="html">Frédérique Dagoreau</title><subtitle>Développeuse Web</subtitle><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><entry><title type="html">Les Ruby Koans</title><link href="https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans.html" rel="alternate" type="text/html" title="Les Ruby Koans" /><published>2024-04-10T20:00:00+02:00</published><updated>2024-04-10T20:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans</id><content type="html" xml:base="https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans.html"><![CDATA[<p>J’apprends le Ruby avec les Ruby Koans.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://frederiquedagoreau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://frederiquedagoreau.github.io/" rel="alternate" type="text/html" /><updated>2024-04-11T19:21:17+02:00</updated><id>https://frederiquedagoreau.github.io/feed.xml</id><title type="html">Frédérique Dagoreau</title><subtitle>Développeuse Web</subtitle><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><entry><title type="html">My Linux Cheat Sheet</title><link href="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html" rel="alternate" type="text/html" title="My Linux Cheat Sheet" /><published>2024-04-11T00:00:00+02:00</published><updated>2024-04-11T00:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet</id><content type="html" xml:base="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html"><![CDATA[<h2 id="path-operations">Path Operations</h2>
+
+<p><code class="language-plaintext highlighter-rouge">cd</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">pwd</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">sudo</code></p>
+
+<h2 id="file-operations">File Operations</h2>
+
+<p><code class="language-plaintext highlighter-rouge">mkdir DIRECTORY</code> : create directory</p>
+
+<p><code class="language-plaintext highlighter-rouge">mv SRC DEST</code> : move</p>
+
+<p><code class="language-plaintext highlighter-rouge">rm TARGET</code> : remove</p>
+
+<p><code class="language-plaintext highlighter-rouge">cp SRC DEST</code> : copy</p>
+
+<p><code class="language-plaintext highlighter-rouge">touch TARGET</code> : create file</p>
+
+<p><code class="language-plaintext highlighter-rouge">chmod MASK TARGET</code> : change rights</p>]]></content><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><summary type="html"><![CDATA[Path Operations]]></summary></entry><entry><title type="html">Les Ruby Koans</title><link href="https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans.html" rel="alternate" type="text/html" title="Les Ruby Koans" /><published>2024-04-10T20:00:00+02:00</published><updated>2024-04-10T20:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans</id><content type="html" xml:base="https://frederiquedagoreau.github.io/ruby/learning/2024/04/10/les-ruby-koans.html"><![CDATA[<p>J’apprends le Ruby avec les Ruby Koans.</p>
 
 <p>Cette approche originale en Test-Driven Development (TDD) est très intéressante.</p>]]></content><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><category term="ruby" /><category term="learning" /><summary type="html"><![CDATA[J’apprends le Ruby avec les Ruby Koans.]]></summary></entry></feed>
