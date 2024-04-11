@@ -3,14 +3,17 @@
 
   {%- include head.html -%}
 
-  <body class="container">
+  <body class="container" data-bs-theme="dark">
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="row">
-        <div class="offset-2 col-8">
+        <div class=" offset-2 col-4">
         {{ content }}
+        </div>
+        <div class="col-4">
+          <img src="{{ page.image_url }}" />
         </div>
       </div>
     </main>
