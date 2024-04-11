@@ -29,6 +29,7 @@ Aeva, le prestataire chargé du développement de l’ERP, construit ses projets
 Web modernes en utilisant Angular et le framework Spring). Puis ils l’ouvrent avec l’IDE IntelliJ et
 développent en JAVA avec le framework SpringBoot.
 Je me suis donc formée sur ces technologies afin de pouvoir travailler avec eux.
+
 En testant AlyaManager, j’ai pu mettre en place certains niveaux d’habilitations (surveillant de
 secteur, surveillant de zone, intervenants), en observer d’autre (Manager, administrateur). J’ai
 également pu voir les divers niveaux d’habilitation sur le Kanban d’AlyaManager (observateur,
