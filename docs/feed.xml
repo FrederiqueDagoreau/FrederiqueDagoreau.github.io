@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://frederiquedagoreau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://frederiquedagoreau.github.io/" rel="alternate" type="text/html" /><updated>2024-04-11T19:21:17+02:00</updated><id>https://frederiquedagoreau.github.io/feed.xml</id><title type="html">Frédérique Dagoreau</title><subtitle>Développeuse Web</subtitle><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><entry><title type="html">My Linux Cheat Sheet</title><link href="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html" rel="alternate" type="text/html" title="My Linux Cheat Sheet" /><published>2024-04-11T00:00:00+02:00</published><updated>2024-04-11T00:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet</id><content type="html" xml:base="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html"><![CDATA[<h2 id="path-operations">Path Operations</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://frederiquedagoreau.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://frederiquedagoreau.github.io/" rel="alternate" type="text/html" /><updated>2024-04-11T20:18:04+02:00</updated><id>https://frederiquedagoreau.github.io/feed.xml</id><title type="html">Frédérique Dagoreau</title><subtitle>Développeuse Web</subtitle><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><entry><title type="html">My Git Cheat Sheet</title><link href="https://frederiquedagoreau.github.io/2024/04/11/git-cheat-sheet.html" rel="alternate" type="text/html" title="My Git Cheat Sheet" /><published>2024-04-11T00:00:00+02:00</published><updated>2024-04-11T00:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/2024/04/11/git-cheat-sheet</id><content type="html" xml:base="https://frederiquedagoreau.github.io/2024/04/11/git-cheat-sheet.html"><![CDATA[<h2 id="fetching-code-from-a-remote-repository">Fetching code from a remote repository</h2>
+
+<p><code class="language-plaintext highlighter-rouge">git clone REPOSITORY</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">git pull</code></p>
+
+<h2 id="miscellaneous-commands">Miscellaneous Commands</h2>
+
+<p><code class="language-plaintext highlighter-rouge">git status</code></p>
+
+<h2 id="committing-code-">Committing Code :</h2>
+
+<p><code class="language-plaintext highlighter-rouge">git add PATH</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">git commit [-m message]</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">git push</code></p>
+
+<h2 id="managing-branches">Managing Branches</h2>
+
+<p><code class="language-plaintext highlighter-rouge">git checkout [-b branch_name]</code></p>]]></content><author><name>Frédérique Dagoreau</name><email>fdagoreau@gmail.com</email></author><summary type="html"><![CDATA[Fetching code from a remote repository]]></summary></entry><entry><title type="html">My Linux Cheat Sheet</title><link href="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html" rel="alternate" type="text/html" title="My Linux Cheat Sheet" /><published>2024-04-11T00:00:00+02:00</published><updated>2024-04-11T00:00:00+02:00</updated><id>https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet</id><content type="html" xml:base="https://frederiquedagoreau.github.io/2024/04/11/linux-cheat-sheet.html"><![CDATA[<h2 id="path-operations">Path Operations</h2>
 
 <p><code class="language-plaintext highlighter-rouge">cd</code></p>
 
