@@ -6,17 +6,17 @@ title: Compétences Professionnelles
 
 ### Systèmes d'exploitation
 
-- Linux
+- ![linux](/assets/images/linux.svg){:width="72"} Linux
 
-- Windows
+- ![windows-icon](/assets/images/windows.svg){:width="72"} Windows
 
 ### Bases de données
 
-- SQL
+- ![sql](/assets/images/sql.svg){:width="48"} SQL
 
 ### IDE
 
-- Visual Studio Code
+- ![vs-code-icon](/assets/images/visual-studio.svg){:width="32"} Visual Studio Code
 
 - IntelliJ
 
@@ -26,24 +26,24 @@ title: Compétences Professionnelles
 
 ### Langages
 
-- Java
+- ![java-icon](/assets/images/java.svg){:width="32"} Java
 
-- C#
+- ![c-sharp-icon](/assets/images/csharp.svg){:width="32"} C#
 
-- PHP
+- ![php-icon](/assets/images/php.svg){:width="32"} PHP
 
-- ![python](assets/images/python.svg) Python
+- ![python](/assets/images/python.svg){:width="48"} Python
 
-- Ruby
+- ![ruby-icon](/assets/images/ruby.svg){:width="32"} Ruby
 
 ### Framework
 
-- SpringBoot
+- ![srpingboot-icon](/assets/images/spring-boot.svg){:width="32"} SpringBoot
 
-- Symfony
+- ![symfony-icon](/assets/images/symfony.svg){:width="32"} Symfony
 
 ### Outils
 
-- Git
+- ![git-icon](/assets/images/git.svg){:width="32"} Git
 
-- Docker
+- ![docker-icon](/assets/images/docker.svg){:width="32"} Docker
