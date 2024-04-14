@@ -32,7 +32,7 @@ title: Compétences Professionnelles
 
 - PHP
 
-- Python
+- ![python](assets/images/python.svg) Python
 
 - Ruby
 
@@ -41,3 +41,9 @@ title: Compétences Professionnelles
 - SpringBoot
 
 - Symfony
+
+### Outils
+
+- Git
+
+- Docker
