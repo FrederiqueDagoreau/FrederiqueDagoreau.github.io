@@ -13,9 +13,9 @@ Je suis arrivée aux balbutiements d’un grand projet, celui de faire un ERP ba
 source Axelor et j’avais pour mission de longue haleine de développer les connecteurs entre cet ERP
 et l’application AlyaManagerV3, qui sert à la télégestion de l’application AlyaMobile.
 
- C’est donc un ensemble de services pour les soignants et aides à domicile. 
+C’est donc un ensemble de services pour les soignants et aides à domicile. 
 
- Ma première mission a été d’installé l’environnement nécessaire au fonctionnement d’Axelor :
+Ma première mission a été d’installer l’environnement nécessaire au fonctionnement d’Axelor :
 J’ai dû identifier la version de Java supportant l’ERP (JAVA 11), et recenser l’existant tout en
 installant le reste de l’environnement (Postgres, Tomcat). 
 
@@ -52,3 +52,20 @@ l’entreprise.
 
 J’ai eu l’occasion d’échanger avec quelques personnes (community-manager et associé-dirigeant) à
 propos du référencement sur google. 
+
+### Travailler en mode projet
+
+En classe, par groupe de 4, nous avons travaillé sur un projet d'application de gestion de colis. 
+A partir du cahier des charges fourni par nos formateurs, nous avons élaboré un plan de travail, mis en place un KANBAN et un GANTT afin de gérer les diverses périodes pendant lesquels nous pourrions avancer. 
+Nous avons décidé des premières fonctinalités et répartis les tâches en fonction des capacités de chacun.
+
+### Mettre à disposition des utilisateurs un service informatique
+
+A l'aide de mon compagnon, ainsi que sur le projet de gestions de colis, j'ai pu effectué des tests unitaires.
+Durant mon stage j'ai également observé les scripts écrits par mon maître de stage afin de mettre à disposition des utilisateurs une mise à jour, un correctif ou un calcul de kilométrage.
+
+### Organiser son développement professionnel
+
+Depuis le début de cette année scolaire, j'ai dû installer plusieurs fois mon environnement de travail du GRETA suite à des soucis d'ordinateurs, puis dans le stage afin de mettre en place AXELOR sur divers environnement (LINUX, WINDOWS, DOCKER, machines physiques et virtuelles).
+Je suis capable de m'aadapter à plusieurs langages et frameworks.
+Je me documente via les divers développeur que je côtoit au niveau des nouvelles technoliogies, je participe à des conférences comme 'devfest AI' au Pixie.
